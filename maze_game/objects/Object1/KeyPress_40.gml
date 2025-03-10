@@ -11,3 +11,9 @@ image_index = 0;
 /// @DnDHash : 145DBBF1
 /// @DnDArgument : "direction" "270"
 direction = 270;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 55330CBA
+/// @DnDArgument : "speed" "5"
+speed = 5;
