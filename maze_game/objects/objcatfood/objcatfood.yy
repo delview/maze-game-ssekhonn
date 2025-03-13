@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object12",
+  "%Name":"objcatfood",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objlevel1","path":"objects/objlevel1/objlevel1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object12",
+  "name":"objcatfood",
   "overriddenProperties":[],
   "parent":{
     "name":"maze_game",

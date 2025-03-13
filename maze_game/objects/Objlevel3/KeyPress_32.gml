@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 50940B3D
-/// @DnDArgument : "speed" "2.5"
-speed = 2.5;
+/// @DnDArgument : "speed" "3"
+speed = 3;
 
 /// @DnDAction : YoYo Games.Audio.Resume_Audio
 /// @DnDVersion : 1
